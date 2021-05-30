@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning Data Analytics
 - 👯 I’m looking to collaborate on Data Science
 - 💬 Ask me about Travel, Data & Books
-- :link: Connect at [Linkedin](https://www.linkedin.com/in/chhitizsrivastava/)
+- :link: Connect at [Linkedin](https://www.linkedin.com/in/chhitizsrivastava/){target="_blank"}
 - 😄 Pronouns:he/him
