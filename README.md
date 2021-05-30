@@ -4,4 +4,5 @@
 - 🌱 I’m currently learning Data Analytics
 - 👯 I’m looking to collaborate on Data Science
 - 💬 Ask me about Travel, Data & Books
+- :link:
 - 😄 Pronouns:he/him
